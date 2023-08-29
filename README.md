@@ -1,5 +1,5 @@
 # Hello, Nice to meet you!
-welcome to my page👋<br>
+Welcome to my page👋<br>
 I'm Ryo, a Japanese web developer who specializes in JavaScript, TypeScript and React.<br>
 I'm currently based in Toronto, Canada. 
 
