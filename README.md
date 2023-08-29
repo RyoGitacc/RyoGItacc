@@ -1,5 +1,7 @@
 # Hello, Nice to meet you!
 welcome to my page👋
+I'm Ryo, a Japanese web developer who specializes in JavaScript, TypeScript and React.
+I'm currently based in Toronto, Canada. 
 
 <!--
 **RyoGitacc/RyoGItacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
